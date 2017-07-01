@@ -108,6 +108,6 @@
 
 ## 2008
 
-**NetApp USer Group: Reducing costs and simplifying DR with NetApp**
+**NetApp User Group: Reducing costs and simplifying DR with NetApp**
 
 [Slides] (http://www.wooditwork.com/wp-content/uploads/2017/07/Invesco-NetApp-User-Group-Presentation.pdf)
