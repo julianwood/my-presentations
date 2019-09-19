@@ -5,6 +5,14 @@
 
 [Blog: WoodITWork.com](http://WoodITWork.com)
 
+## 2018
+
+**UK VMUG Community Session: Connecting VMware Cloud on AWS to Native AWS Services**
+
+[Blog] ([Connecting VMware Cloud on AWS to Native AWS Services - UKVMUG 2018](http://www.wooditwork.com/2018/12/13/connecting-vmware-cloud-on-aws-to-native-aws-services-a-ukvmug-presentation/))
+
+[Slides] (https://www.slideshare.net/JulianWood10/connecting-vmware-cloud-on-aws-to-native-aws-services-ukvmug-2018-125962961)
+
 ## 2017
 
 **London VMUG Community Session: Can I order some servers for my serverless please**
